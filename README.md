@@ -35,7 +35,7 @@ This project aims to provide a modular and extensible solution for organizing a 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/secret-santa.git
+   git clone https://github.com/AtharvaRaut2002/secret-santa.git
    cd secret-santa
 
 2. **Create a virtual environment (optional but recommended):**
