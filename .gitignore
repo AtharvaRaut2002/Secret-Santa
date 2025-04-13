@@ -1,0 +1,30 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env/
+*.env
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+
+# Editor/IDE configs
+.vscode/
+*.swp
+*.swo
+
+# Logs and misc
+*.log
+
+# Jupyter notebooks (if you ever add them)
+.ipynb_checkpoints/
+
+# macOS / Windows / Linux system files
+.DS_Store
+Thumbs.db
